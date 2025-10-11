@@ -1,0 +1,8 @@
+{
+  "app_name": "Hello World",
+  "description": "A simple test app for the Bruce JavaScript interpreter that displays 'Hello World!' on the screen",
+  "category": "Utilities",
+  "files": [
+    "HelloWorld.js"
+  ]
+}
