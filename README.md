@@ -1,4 +1,4 @@
-# Hello World
+# 👋 Hello World
 
 A simple test app for the Bruce JavaScript interpreter that displays "Hello World!" on the screen.
 
