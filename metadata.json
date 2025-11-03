@@ -4,8 +4,8 @@
   "category": "Utilities",
   "files": [
     {
-      "source": "HelloWorld.js",
-      "destination": "HelloWorld.js"
+      "source": "Hello World.js",
+      "destination": "Hello World.js"
     }
   ]
 }

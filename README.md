@@ -15,9 +15,9 @@ Basic demonstration script that shows how to create a simple Bruce application u
 
 ## Usage
 
-1. Copy `HelloWorld.js` to your Bruce device's `/scripts/` directory
+1. Copy `Hello World.js` to your Bruce device's `/scripts/` directory
 2. Navigate to **Interpreter** menu
-3. Select **HelloWorld** to run the application
+3. Select **Hello World** to run the application
 4. Press **ESC** to exit
 
 ## Controls
